@@ -1,0 +1,17 @@
+  * Variables
+  Las variables permiten almacenar el valor de algo para ser utilizado después.
+  Como un contenedor que llenamos con algo para luego usar su contenido
+
+	* Strings
+  Los string son cadena de texto que por lo general se encuentran entre '' o "", pueden ser números o letras
+
+	* Funciones (argumentos, `return`)
+  Las funciones son operaciones lógicas que sirven para encontrar o determinar algo que deseamos.
+  Los argumentos son los valores o parametros que reciben las funciones
+  El return es el retorno de la función
+
+	* Declaraciones `if`
+  Las declaraciones if permiten determinar si un valor o algo cumple cierta condicion respecto a otros valores.
+
+	* Valores booleanos (`true`, `false`)
+  Los booleanos son valores de falso o verdadero, son códigos binarios que ayudan a determinar si una condición es falsa o verdadera
